@@ -1,0 +1,23 @@
+header{
+    background-image: 
+    linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url(../img/background.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    color: #FFF;
+}
+.card img{
+    border-radius: 30% 70% 0% 100% / 0% 0% 100% 100%  ;
+}
+hr{
+    width: 50%;
+    margin: 10px auto;
+    border: #f0f0ea solid 1.5px;
+}
+#launch{
+    text-align: center;
+    font-size: 40px;
+}
+
+
